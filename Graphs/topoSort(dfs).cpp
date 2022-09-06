@@ -46,3 +46,6 @@ int main()
 
     return 0;
 }
+
+// T.C. = O(N+E)
+// S.C. = O(N)

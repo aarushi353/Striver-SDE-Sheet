@@ -52,6 +52,9 @@ int main(){
     return 0;
 }
 
+// Time complexity: O(N+E), Where N is the time taken for visiting N nodes and E is for travelling through adjacent nodes.
+// Space Complexity:O(N+E)+O(N)+O(N) , Space for adjacency list, Array,Auxiliary space.
+
 
 
 

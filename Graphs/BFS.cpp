@@ -46,4 +46,6 @@ int main(){
     return 0;
 }
 
+// Time Complexity : O(N+E)
+// Space Complexity : O(N+E) + O(N) + O(N)
 

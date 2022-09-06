@@ -56,3 +56,6 @@ int main() {
     }
     return 0;
 }
+
+// Time Complexity: O(V + E), since in its whole, it is a DFS implementation, V – vertices; E – edges;
+// Space Complexity: O(V), because, apart from the graph, we maintain a color array.
